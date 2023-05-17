@@ -77,10 +77,9 @@ const App = () => {
         </div>
         <div className='right-section'>
           <div className='wrap'>
-          <h2>Metrics</h2>
-          <pre className='metrics'>{metrics}</pre>
+            <h2>Metrics</h2>
+            <pre className='metrics'>{metrics}</pre>
           </div>
-          
         </div>
       </div>
       {loading && <div className='loading'>Loading...</div>}
