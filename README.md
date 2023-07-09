@@ -4,7 +4,7 @@ This README file provides instructions on how to set up and run the test project
 ## Repository
 The source code for this project is hosted in the following repository:
 
-https://github.com/pataguado/ConnexOne-test.git
+https://github.com/pataguado/Full-Stack-Developer-Technical-Test
 
 Please clone or download the repository to your local machine before proceeding with the setup.
 
